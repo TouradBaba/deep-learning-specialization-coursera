@@ -81,5 +81,3 @@ This repository contains the programming assignments for the [Deep Learning Spec
 ## Acknowledgements
 
 These assignments are part of the Deep Learning Specialization by deeplearning.AI on Coursera, taught by Andrew Ng. All credit for the course content goes to the creators of the specialization.
-
-
